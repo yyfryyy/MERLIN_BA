@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 12a0d193413d4403dbbefeae9618f864
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Abzug_Wellblech_Rohr
+    second: {fileID: 2100000, guid: 455c40a44266e49e69d841c46adc8a42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "BSH_Sichtqualit\xE4t"
+    second: {fileID: 2100000, guid: a9fd1bf3d342a43498eae937621b390c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Plastic
+    second: {fileID: 2100000, guid: 11e4f80d378584c4687a88234c6c7f5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Plastic_FADE_IN
+    second: {fileID: 2100000, guid: 038b66bfb88d64c418e6f1d412fe5873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brettsperrholz_Grob
+    second: {fileID: 2100000, guid: 241b4b7db5de4404d98ee7d7e9e735ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brettsperrholz_Seite
+    second: {fileID: 2100000, guid: ff9d3f42dd89b4ece9d015cbe45119d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarpetLoopPileNatural001_2K
+    second: {fileID: 2100000, guid: 883a1e29ec2e247f5a9b624a2386330e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrywallPainted001_2K
+    second: {fileID: 2100000, guid: ad3d83bbdef85446fb48f7ebb76b4486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "D\xE4mmung_Gelb"
+    second: {fileID: 2100000, guid: ff518cfd7d93145e0818c5cb86af0731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "D\xE4mmung_Weiss"
+    second: {fileID: 2100000, guid: ae8222e7b50874fbf9b0fc6420fb38cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FabricCreasesWrinkles001_2K
+    second: {fileID: 2100000, guid: 3b0cf3961f4b64c36950333d3f72a035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gips_Rau
+    second: {fileID: 2100000, guid: e96f9431178374a29b635a3f73f8557e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gips_Rau_Dunkel
+    second: {fileID: 2100000, guid: eab18d0cc9c4640d3a2f3fe452022d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Architectural
+    second: {fileID: 2100000, guid: facb769cecc86496fb4e0c6b7e674fe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GrungeWall051_3K
+    second: {fileID: 2100000, guid: 1e3ba0b3c8fa045368b1fd961fee5168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kabel_Blau
+    second: {fileID: 2100000, guid: 6f6683ac5b9e64e2ca1b241bc0d0b96e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kabel_Braun
+    second: {fileID: 2100000, guid: e49c60729a36b44ed9dc61d0182d2b64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kabel_Gruen_Gelb
+    second: {fileID: 2100000, guid: 67374dfc5ee284c23aab60b7bab12a77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kabel_Huelle
+    second: {fileID: 2100000, guid: cedba42e10620431081faa11852f8f25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp_Emission
+    second: {fileID: 2100000, guid: 1c379b4ef04e649f7ba10c5361943eef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lehrrohr
+    second: {fileID: 2100000, guid: 415979a10d1174237b3c25ed71fbdd2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Metal_D\xE4mmung"
+    second: {fileID: 2100000, guid: c7276830a661d49749a789b7813bb6de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Matt
+    second: {fileID: 2100000, guid: 0d8e4c9237fef4d9cac6a9b1717661a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Silver
+    second: {fileID: 2100000, guid: 02be3e0eca8f94e01a92a4b074017ba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: e2b08fb3f82e340c1a3fb3cf8c71b048, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: bfcb240b67c84494b828ef54dffd9a2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Styrofoam_Lila
+    second: {fileID: 2100000, guid: f278ce48439304e1083f0dcf485bae8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TilesOnyxOpaloWhite001_2K
+    second: {fileID: 2100000, guid: 985e89280d5964aebb0e67cbf0f95695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_Plastic_Glossy
+    second: {fileID: 2100000, guid: 2e50b705a2a30419baef0e8be7abbaac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rohr_interior
+    second: {fileID: 2100000, guid: 5dc45c65a1f2540e99784c7f4103062f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: styrofoam_trittschutz
+    second: {fileID: 2100000, guid: 5d3a4c6a07ec74620ade6febc5c6673f, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
